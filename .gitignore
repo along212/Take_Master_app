@@ -1,0 +1,12 @@
+*.apk
+*.ap_
+.gradle/
+build/
+android-app/.gradle/
+android-app/app/build/
+android-app/local.properties
+.DS_Store
+__pycache__/
+*.mp4
+*.mov
+*.webm
